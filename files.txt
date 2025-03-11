@@ -1,0 +1,7 @@
+materials/topic_basic_python.zip
+materials/topic_errors_exceptions.zip
+materials/topic_files_io.zip
+materials/topic_gui.zip
+materials/topic_numpy.zip
+materials/topic_oop.zip
+materials/topic_pandas.zip
